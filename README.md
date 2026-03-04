@@ -4,15 +4,6 @@ A high-performance, interactive 3D digital identity component built with **React
 
 ---
 
-## 🚀 Technical Highlights (NIT Warangal)
-
-* [cite_start]**Integrated MSc Mathematics (Minor in CSE)**: Current CGPA 8.77[cite: 5, 21].
-* [cite_start]**LeetCode Knight**: Top-tier problem solver with a 1821+ rating and 500+ problems solved[cite: 71].
-* [cite_start]**CodeChef 4-Star**: Competitive programmer with a peak rating of 1971[cite: 72].
-* [cite_start]**Full-Stack Experience**: Software Developer Intern (Rangpatra) and Blockchain Intern (BlockseBlock)[cite: 19, 31].
-
----
-
 ## 💻 Tech Stack & Features
 
 * **Three.js & R3F**: Glass refraction (IOR 1.6) and environment mapping for realistic obsidian textures.
